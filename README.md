@@ -1,6 +1,7 @@
 ## Sobre mim:
 
- Olá, sou a Viviane! Desenvolvedora front-end. Atualmente em busca de uma oportunidade na área de Front-end.
+ Olá, sou a Viviane! Graduada em Análise e Desenvolvimento de Sistemas. Sempre buscando conhecimentos de forma significativa para que eu possa crescer profissionalmente na área de desenvolvedora front end.
+Estou disposta a aprender e preparada para desafios que proporcionem crescimento profissional..
  
  ## Tecnologias:
  Tenho experiência com as seguintes tecnologias:
